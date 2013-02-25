@@ -5,8 +5,9 @@ Overview
 -------
 
 ### UNC Graphics Project
- * The goal of this project is to be able to visualize music in a customizeable format
- * Modify a scene based on frequency bands over time
+ * The goal of this project is to be able to visualize music in a customizeable format.
+ * A scene will be generated based on a config file selected by the user. 
+ * Scene objects will be modified (rotated and/or resized) based on different audio frequency bands.
 
 Program Workflow
 ---------------
