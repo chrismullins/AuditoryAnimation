@@ -12,12 +12,13 @@ Overview
 Program Workflow
 ---------------
 
+This is a change from James
+
 ### Controller
  * Initializes a model based on the config file (takes data from a ConfigFileReader)
  * Starts the sound processing (sends data to Sound Processor)
  * Builds/Updates the scene (sends and receives data to the Model)
  * Renders the scene (sends data to the View)
-
  * Output video 
 
 Sends data to the Model and the view
